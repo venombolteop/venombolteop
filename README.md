@@ -111,8 +111,6 @@ Last Updated: Sunday, November 5th, 2023, 9:58:49 PM
         <img height=180em src="https://github-readme-stats-venombolteop.vercel.app/api?username=venombolteop&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
     </a>
     </br>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-venombolteop.vercel.app/api/top-langs/?username=venombolteop&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img height=180em src="https://streak-stats.demolab.com/?user=venombolteop&theme=midnight-purple&hide_border=true" alt="streak stats"/>
@@ -120,12 +118,6 @@ Last Updated: Sunday, November 5th, 2023, 9:58:49 PM
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
         <img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=venombolteop&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
     </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=venombolteop&theme=darkhub&no-frame=true&column=10">
-    </a>
-    <!--<a href="https://github.com/HwangTaehyun/github-contributor-stats">
-        <img src="https://github-contributor-stats.vercel.app/api?username=venombolteop&theme=dark" alt="contribution stats">
-    </a>-->
     </br>
     <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
 </details>
