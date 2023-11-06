@@ -5,6 +5,14 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Venom Ayush;He/Him;Computer+Engineering+Student;Indian+Frontend+Dev;Cat+Lover+%3C3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Indian front-end developer, Power Metal lover"></a>
 </div>
 
+#### Thanks for visiting :heart:
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/venombolteop/count.svg">  
+
+counting of visitors to this page in this section started from November 5 2023
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 
 <table align="right">
  <tr><td><a href="https://github.com/venombolteop/venombolteop/blob/main/README.md"><img src="./assets/ind_flag.png" alt="IND flag" width="17px"> English & Hindi</a></td></tr>
