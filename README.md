@@ -103,18 +103,6 @@ Last Updated: Sunday, November 5th, 2023, 9:58:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 </details>
 
-<details>
-    <summary>My GitHub stats</summary>
-    <div>
-        <a href="https://github.com/venombolteop">
-            <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/venombolteop?style=for-the-badge&labelColor=7E3ACE&color=181717">
-        </a>
-        <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <a
-href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/venombolteop/venombolteop/issues/new?template=guestbook-entry.md">here</a>!</p>
 <p>Or ask me anything at <a href="https://github.com/venombolteop/venombolteop/discussions/new/choose">Discussions</a>!</p>
