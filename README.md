@@ -5,8 +5,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Venom Ayush;He/Him;Computer+Engineering+Student;Indian+Frontend+Dev;Cat+Lover+%3C3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Indian front-end developer, Power Metal lover"></a>
 </div>
 
-<a href="https://github.com/venombolteop/venombolteop/actions/workflows/update-snk.yml"><img src="https://github.com/venombolteop/venombolteop/actions/workflows/update-snk.yml/badge.svg" alt="Generate Datas workflow status" ></a>
-<a href="https://github.com/venombolteop/venombolteop/actions/workflows/recent-activity.yml"><img src="https://github.com/venombolteop/venombolteop/actions/workflows/recent-activity.yml/badge.svg" alt="Recent Activity workflow status" ></a>
 
 <table align="right">
  <tr><td><a href="https://github.com/venombolteop/venombolteop/blob/main/README.md"><img src="./assets/ind_flag.png" alt="IND flag" width="17px"> English & Hindi</a></td></tr>
