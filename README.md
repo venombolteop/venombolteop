@@ -105,11 +105,7 @@ Last Updated: Sunday, November 5th, 2023, 9:58:49 PM
         <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
         <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
         <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
-    </div>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-venombolteop.vercel.app/api?username=venombolteop&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
-    </a>
+        <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> 
     </br>
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
