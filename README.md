@@ -27,7 +27,7 @@
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/venombolteop?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@venombolteop" height="22px">
 </a>
 <a href="https://instagram.com/venom_owners">
-    <img alt="Link to my Instagram" src="https://img.shields.io/static/v1?label&message=venom_owners&color=redpink&style=for-the-badge&logo=instagram" height="22px" />
+    <img alt="Link to my Instagram" src="https://img.shields.io/static/v1?label&message=venom_owners&color=red&style=for-the-badge&logo=instagram" height="22px" />
 </a>
 <a href="https://twitter.com/Venom_Ayush/">
     <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Venom_Ayush?style=for-the-badge&label=@Venom_Ayush&color=1DA1F2&logo=twitter" height="22px">
