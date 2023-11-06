@@ -112,7 +112,8 @@ Last Updated: Sunday, November 5th, 2023, 9:58:49 PM
         <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
         <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
         <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
-        <a> href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <a
+href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
         <!--<a> href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> 
     </br>
     </a>
