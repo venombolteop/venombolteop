@@ -14,6 +14,14 @@ counting of visitors to this page in this section started from November 5 2023
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
+
+## Profile Views
+counting of visitors to this page in this section started from June 12, 2022
+
+![](https://count.getloli.com/get/@venombolteop.github.readme)
+</br>
+
+
 <table align="right">
  <tr><td><a href="https://github.com/venombolteop/venombolteop/blob/main/README.md"><img src="./assets/ind_flag.png" alt="IND flag" width="17px"> English & Hindi</a></td></tr>
 
