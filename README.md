@@ -111,31 +111,9 @@ Last Updated: Sunday, November 5th, 2023, 9:58:49 PM
         </a>
         <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
         <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
+        <a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
         <a
 href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <!--<a> href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> 
-    </br>
-    </a>
-    <a> href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://streak-stats.demolab.com/?user=venombolteop&theme=midnight-purple&hide_border=true" alt="streak stats"/>
-    </a>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img alt="github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=venombolteop&area=true&hide_border=true&bg_color=000&line=7E3ACE&point=1E0E31&color=7E3aCE&area_color=7E3ACE">
-    </a>
-    </br>
-    <sup><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</sup>
-</details>
-
-
-<!-- <details>
-    <summary>Profile visitors</summary>
-    <p align="center">:round_pushpin: Profile visitors</p>
-    <div align="center">
-        <img alt="visitors counter" src="https://profile-counter.glitch.me/venombolteop/count.svg">
-    </div>
-</details> -->
-
 
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/venombolteop/venombolteop/issues/new?template=guestbook-entry.md">here</a>!</p>
@@ -167,7 +145,7 @@ href="https://badges.strrl.dev"><img alt="commits this month" src="https://badge
 <a href="https://github.com/venombolteop/VenomMusic/network/members"> <img src="https://img.shields.io/github/forks/venombolteop/VenomMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/venombolteop/VenomMusic/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/venombolteop/VenomMusic/commits/ytpremiu"> <img src="https://img.shields.io/github/last-commit/venombolteop/VenomMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/venombolteop/VenomMusic/commits/venombolteop"> <img src="https://img.shields.io/github/last-commit/venombolteop/VenomMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 
