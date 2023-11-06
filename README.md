@@ -95,14 +95,6 @@ counting of visitors to this page in this section started from November 05, 2023
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes card">
     </a>
-</details>
-<h2>:zany_face: Joke of the day</h2>
-<details>
-    <summary>See joke</summary>
-    <a href="https://github.com/ABSphreak/readme-jokes">
-        <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-    </a>
-</details>
 
 <!--RECENT_ACTIVITY:end-->
 
@@ -120,11 +112,11 @@ Last Updated: Sunday, November 5th, 2023, 9:58:49 PM
         <a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
         <a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
         <!--<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> -->
-        <a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
-        <!--<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> 
+        <a> href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+        <!--<a> href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/venombolteop?color=181717&style=for-the-badge&labelColor=7E3ACE"></a> 
     </br>
     </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a> href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img height=180em src="https://streak-stats.demolab.com/?user=venombolteop&theme=midnight-purple&hide_border=true" alt="streak stats"/>
     </a>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
