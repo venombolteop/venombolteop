@@ -28,8 +28,8 @@
 <a href="https://github.com/venombolteop">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/venombolteop?style=for-the-badge&color=181717&logo=github&logoColor=181717&label=@venombolteop" height="22px">
 </a>
-<a href="https://codepen.io/venombolteop">
-    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/venombolteop&color=000000&style=for-the-badge&logo=codepen" height="22px" />
+<a href="https://instagram.com/venom_owners">
+    <img alt="Link to my Instagram" src="https://img.shields.io/instagram/followers/venom_owners&color=000000&style=for-the-badge&logo=instgram" height="22px" />
 </a>
 <a href="https://twitter.com/Venom_Ayush/">
     <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Venom_Ayush?style=for-the-badge&label=@Venom_Ayush&color=1DA1F2&logo=twitter" height="22px">
@@ -133,9 +133,6 @@ Last Updated: Sunday, November 5th, 2023, 9:58:49 PM
 </details>
 
 
-<h3> :star: My favorite GitHub Repos</h3>
-See <a href="https://github.com/venombolteop/my-favorite-repos">here</a> a list of the awesome repositories I've starred! List updates daily.
-
 <!-- <details>
     <summary>Profile visitors</summary>
     <p align="center">:round_pushpin: Profile visitors</p>
@@ -144,7 +141,6 @@ See <a href="https://github.com/venombolteop/my-favorite-repos">here</a> a list 
     </div>
 </details> -->
 
-<img alt="github contribution snake animation" src="https://github.com/venombolteop/venombolteop/blob/output/github-contribution-grid-snake.svg">
 
 <h2>:book: Guestbook</h2>
 <p>Leave a cool message for me or just say you passed by <a href="https://github.com/venombolteop/venombolteop/issues/new?template=guestbook-entry.md">here</a>!</p>
