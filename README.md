@@ -58,7 +58,7 @@ counting of visitors to this page in this section started from November 05, 2023
 <a
 href="https://paypal.me/venomayush">
     <img alt="Donate here"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/paypal/paypal-original.svg" height="22px" />
+src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" height="22px" />
 </a>
 </br>
 
