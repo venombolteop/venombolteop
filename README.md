@@ -58,7 +58,7 @@ counting of visitors to this page in this section started from November 05, 2023
 <a
 href="https://paypal.me/venomayush">
     <img alt="Donate here"
-src="https://img.shields.io/paypal&colour=blue&style=for-the-badge&logo=paypal" height="22px" />
+src="https://img.shields.io/staticlv1?label&message=venomayush&colour=blue&style=for-the-badge&logo=paypal" height="22px" />
 </a>
 </br>
 
