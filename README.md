@@ -5,12 +5,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sacramento&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Venom Ayush;He/Him;Computer+Engineering+Student;Indian+Frontend+Dev;Cat+Lover+%3C3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Indian front-end developer, Power Metal lover"></a>
 </div>
 
-<a
-href="https://paypal.me/venomayush">
-    <img alt="Donate here"
-src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" height="122px" />
-</a>
-
 #### Thanks for visiting :heart:
 
 <p align="center"> 
@@ -26,6 +20,14 @@ counting of visitors to this page in this section started from November 05, 2023
 
 ![](https://count.getloli.com/get/@venombolteop.github.readme)
 </br>
+
+
+<a
+href="https://paypal.me/venomayush">
+    <img alt="Donate here"
+src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" height="52px" />
+</a>
+
 
 
 <table align="right">
