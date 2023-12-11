@@ -55,6 +55,12 @@ counting of visitors to this page in this section started from November 05, 2023
 <a href="mailto:ayush20912@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=ayush20912@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
+<a
+href="https://paypal.me/venomayush">
+    <img alt="Donate here"
+src="https://img.shields.io/static/v1?
+label&pay=venomayush&colour=blue&style=for-the-badge&logo=paypal" height="22px" />
+</a>
 </br>
 
 <h2>:bulb: Languages & Frameworks I code in</h2>
