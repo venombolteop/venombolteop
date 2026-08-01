@@ -1,0 +1,38 @@
+# Save as: .github/workflows/visitor-counter.yml
+# in your Venombolteop/Venombolteop profile repo.
+#
+# This runs every 6 hours (and on manual trigger), fetches real GitHub
+# traffic data for this repo, adds it to a running total stored in
+# .github/view_count.txt, and updates the counter badge in README.md.
+
+name: Update Visitor Counter
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-counter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch traffic data and update counter
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          bash .github/scripts/update_counter.sh
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/view_count.txt README.md
+          git diff --cached --quiet || git commit -m "chore: update visitor counter [skip ci]"
+          git push
