@@ -7,7 +7,7 @@
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
 
- <!-- VISITOR_COUNT_BADGE -->
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge) <!-- VISITOR_COUNT_BADGE -->
 
 # 💫 About Me
 
