@@ -5,6 +5,10 @@
 
 </div>
 
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge)
+
+ <!-- VISITOR_COUNT_BADGE -->
+
 # 💫 About Me
 
 - 🔭 I'm currently working on **API development** and **optimizing proxy server routes**
