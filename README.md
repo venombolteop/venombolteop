@@ -137,13 +137,7 @@
 
 </div>
 
-## 📈 Profile Views & Support
 
-<div align="center">
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Venom&label=Profile%20Views&color=5&icon=2&pretty=true" />
-</a>
 
 ### 💰 Support My Work
 
