@@ -126,7 +126,6 @@
 
 <div align="center">
 
-[![WakaTime](https://wakatime.com/badge/user/224c838c-04d8-4c46-b3c1-a71451a7bc99)](https://wakatime.com/@224c838c-04d8-4c46-b3c1-a71451a7bc99)
 
 **Try to catch me!** 👇 Click to open an interactive 2048-style game hosted on GitHub Pages:
 
