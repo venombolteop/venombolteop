@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="250" viewBox="0 0 800 250">
+  <defs>
+    <linearGradient id="win" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1c2128"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="barFill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ADD8"/>
+      <stop offset="50%" stop-color="#3d5ee1"/>
+      <stop offset="100%" stop-color="#7f9cf5"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="20" y="10" width="760" height="230" rx="12" fill="url(#win)" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="20" y="10" width="760" height="38" rx="12" fill="#21262d"/>
+  <rect x="20" y="36" width="760" height="12" fill="#21262d"/>
+
+  <circle cx="46" cy="29" r="6" fill="#ff5f56"/>
+  <circle cx="66" cy="29" r="6" fill="#ffbd2e"/>
+  <circle cx="86" cy="29" r="6" fill="#27c93f"/>
+
+  <text x="400" y="33" font-family="'Fira Code', Menlo, Consolas, monospace" font-size="13" text-anchor="middle" fill="#8b949e">venom@server — zsh</text>
+
+  <g font-family="'Fira Code', Menlo, Consolas, monospace" font-size="15">
+    <g>
+      <animate attributeName="opacity" values="0;1" dur="0.2s" fill="freeze"/>
+      <text x="42" y="78" fill="#00ADD8">$</text>
+      <text x="62" y="78" fill="#e6edf3">whoami</text>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;1" dur="0.2s" fill="freeze" begin="0.7s"/>
+      <text x="42" y="104" fill="#27c93f">venom</text>
+      <text x="150" y="104" fill="#484f58"># backend &amp; API developer</text>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;1" dur="0.2s" fill="freeze" begin="1.4s"/>
+      <text x="42" y="130" fill="#00ADD8">$</text>
+      <text x="62" y="130" fill="#e6edf3">./deploy --stack production</text>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;1" dur="0.2s" fill="freeze" begin="2.1s"/>
+      <text x="42" y="156" fill="#27c93f">✓ build passed in 12s</text>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;1" dur="0.2s" fill="freeze" begin="2.8s"/>
+      <text x="42" y="182" fill="#27c93f">✓ routes optimized → 99.9% uptime</text>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;1" dur="0.2s" fill="freeze" begin="3.5s"/>
+      <text x="42" y="208" fill="#00ADD8">$</text>
+      <text x="62" y="208" fill="#7f9cf5">uptime</text>
+    </g>
+    <g>
+      <animate attributeName="opacity" values="0;1" dur="0.2s" fill="freeze" begin="4.2s"/>
+      <text x="42" y="230" fill="#27c93f">all systems nominal ▁▃▅▆▇</text>
+    </g>
+
+    <rect x="122" y="217" width="9" height="15" rx="1" fill="#00ADD8">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="20" y="240" width="760" height="6" rx="3" fill="url(#barFill)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>

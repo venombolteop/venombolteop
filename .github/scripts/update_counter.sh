@@ -55,10 +55,11 @@ echo "$NEWEST_DATE" > "$LAST_SEEN_FILE"
 
 # Update README badge line
 # Looks for a line containing VISITOR_COUNT_BADGE marker and replaces the number
-BADGE_LINE="![Profile Views](https://img.shields.io/badge/Profile%20Views-${NEW_TOTAL}-blue?style=for-the-badge) <!-- VISITOR_COUNT_BADGE -->"
+BADGE_LINE="![Profile Views](https://img.shields.io/badge/Profile%20Views-${NEW_TOTAL}-00ADD8?style=flat&logo=github) <!-- VISITOR_COUNT_BADGE -->"
 
 if grep -q "VISITOR_COUNT_BADGE" "$README"; then
-  # Replace existing badge line
+  # Replace the badge line (the one with the img.shields.io badge) but leave
+  # any other mentions of the marker (e.g. docs/tables) untouched.
   python3 - "$README" "$BADGE_LINE" <<'EOF'
 import sys
 readme_path, new_line = sys.argv[1], sys.argv[2]
@@ -66,7 +67,7 @@ with open(readme_path, "r") as f:
     lines = f.readlines()
 with open(readme_path, "w") as f:
     for line in lines:
-        if "VISITOR_COUNT_BADGE" in line:
+        if "VISITOR_COUNT_BADGE" in line and "img.shields.io" in line:
             f.write(new_line + "\n")
         else:
             f.write(line)

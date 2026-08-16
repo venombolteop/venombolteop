@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="90" viewBox="0 0 800 90">
+  <defs>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00ADD8"/>
+      <stop offset="100%" stop-color="#7f9cf5"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7f9cf5"/>
+      <stop offset="100%" stop-color="#f7768e"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="10s" repeatCount="indefinite"/>
+    <path d="M0,55 Q100,20 200,55 T400,55 T600,55 T800,55 T1000,55 T1200,55 T1400,55 T1600,55 T1800,55 T2000,55 T2200,55 T2400,55 T2600,55 T2800,55 T3000,55 T3200,55 T3400,55 T3600,55 T3800,55 T4000,55" fill="none" stroke="url(#w1)" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="-400 0" to="-1200 0" dur="14s" repeatCount="indefinite"/>
+    <path d="M0,40 Q100,70 200,40 T400,40 T600,40 T800,40 T1000,40 T1200,40 T1400,40 T1600,40 T1800,40 T2000,40 T2200,40 T2400,40 T2600,40 T2800,40 T3000,40 T3200,40 T3400,40 T3600,40 T3800,40 T4000,40" fill="none" stroke="url(#w2)" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+  </g>
+
+  <g fill="#00ADD8">
+    <circle cx="40" cy="48" r="2">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="48" r="2">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

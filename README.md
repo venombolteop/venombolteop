@@ -1,15 +1,32 @@
 <div align="center">
 
-<!-- Typing animation intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Venom+%F0%9F%91%8B;Backend+%26+API+Developer;Proxy+Routing+%26+Server+Architecture;Building+production-ready+code+%E2%9A%A1" alt="Typing SVG" />
+<!-- Custom animated banner (rendered from assets/header.svg) -->
+<img src="assets/header.svg" alt="Venom Banner" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00ADD8&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Hey+there%2C+I'm+Venom+%F0%9F%91%8B;Backend+%26+API+Developer;Proxy+Routing+%26+Server+Architecture;Building+production-ready+code+%E2%9A%A1" alt="Typing SVG" />
+
+<br>
+
+<!-- ⚡ Live counters — these update in real time, on every single profile view -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=venombolteop.profile&left_color=112138&right_color=00ADD8&left_text=Live%20Visits" alt="Live Visitor Counter" />
+<img src="https://img.shields.io/github/followers/Venombolteop?color=00ADD8&label=Followers&logo=github" alt="Followers" />
+<img src="https://img.shields.io/github/stars/venombolteop?color=F7DF1E&label=Stars&logo=github" alt="Stars" />
+
+<!-- Cumulative profile views — auto-updated by the GitHub Actions visitor counter workflow -->
+![Profile Views](https://img.shields.io/badge/Profile%20Views-178329291-00ADD8?style=flat&logo=github) <!-- VISITOR_COUNT_BADGE -->
+
+<img src="https://img.shields.io/github/last-commit/venombolteop/venombolteop?color=7f9cf5&label=Last%20Updated&logo=githubactions" alt="Last Updated" />
 
 </div>
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-178329291-blue?style=for-the-badge)
+<!-- Animated wave divider -->
+<div align="center">
+<img src="assets/divider.svg" alt="divider" width="100%"/>
+</div>
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue?style=for-the-badge) <!-- VISITOR_COUNT_BADGE -->
-
-# 💫 About Me
+## 💫 About Me
 
 - 🔭 I'm currently working on **API development** and **optimizing proxy server routes**
 - 👯 I'm looking to collaborate on **backend systems, server optimization, and open-source API projects**
@@ -20,6 +37,33 @@
 
 <br>
 
+## 🖥️ Peek Into My Terminal
+
+<div align="center">
+
+<!-- Custom animated terminal (rendered from assets/terminal.svg) -->
+<img src="assets/terminal.svg" alt="Animated Terminal" width="100%"/>
+
+</div>
+
+<br>
+
+## 📣 Join My Telegram Universe
+
+<div align="center">
+
+[![Channel — @TomatoFist](https://img.shields.io/badge/Channel-%40TomatoFist-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TomatoFist)
+[![Group — @Venom_chatting](https://img.shields.io/badge/Group-%40Venom_chatting-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Venom_chatting)
+[![Owner — @K_4ip](https://img.shields.io/badge/Owner-%40K_4ip-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/K_4ip)
+
+<br>
+
+> 🚀 **Updates** → [Channel](https://t.me/TomatoFist) &nbsp;•&nbsp; 💬 **Chat with the community** → [Group](https://t.me/Venom_chatting) &nbsp;•&nbsp; 👑 **Reach me directly** → [Owner](https://t.me/K_4ip)
+
+</div>
+
+<br>
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -27,7 +71,19 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/venomowners)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Venom_owners)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Tomatofist)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/K_4ip)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayush20912@gmail.com)
+
+</div>
+
+<br>
+
+## ⚡ The Venom Stack
+
+<div align="center">
+
+<!-- Custom animated skill bars (rendered from assets/tech-matrix.svg) -->
+<img src="assets/tech-matrix.svg" alt="Tech Matrix" width="100%"/>
 
 </div>
 
@@ -77,12 +133,26 @@
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.shion.dev/api?username=Venombolteop&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Venombolteop&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+
+<br>
+
+<!-- Profile summary cards — live GitHub analytics in one glance -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venombolteop&theme=tokyonight" alt="Profile Summary" width="100%"/>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Venombolteop&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Venombolteop&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Venombolteop&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Venombolteop&theme=tokyonight"/>
+</p>
+
+<br>
 
 <img src="https://streak-stats.demolab.com/?user=Venombolteop&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 
@@ -90,13 +160,18 @@
 
 </div>
 
-## 🏆 GitHub Trophies
+<br>
+
+## 🧊 3D Contribution Graph
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Venombolteop&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2)
+<!-- Generated every day by the "Generate 3D Contribution Graph" workflow in .github/workflows/profile-3d.yml -->
+<img src="https://raw.githubusercontent.com/Venombolteop/Venombolteop/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 
 </div>
+
+<br>
 
 ## 🐍 Contribution Snake
 
@@ -108,7 +183,17 @@
 
 </div>
 
-> Set this up via the [platane/snk](https://github.com/Platane/snk) GitHub Action — see setup instructions at the bottom of this file.
+<br>
+
+## 😂 Random Dev Joke
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
+
+</div>
+
+<br>
 
 ## ✍️ Random Dev Quote
 
@@ -118,34 +203,50 @@
 
 </div>
 
-## 🔝 Top Contributed Repo
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Venombolteop&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-</div>
+<br>
 
 ## 🎮 Mini Game — Play Directly in the README
 
 <div align="center">
 
-
 **Try to catch me!** 👇 Click to open an interactive 2048-style game hosted on GitHub Pages:
 
-[![Play Game](https://img.shields.io/badge/▶️_PLAY_GAME-2048_Clone-blueviolet?style=for-the-badge)](https://play2048.co/)
+[![Play Game](https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_PLAY_GAME-2048_Clone-blueviolet?style=for-the-badge)](https://play2048.co/)
 
 </div>
 
+<br>
 
+## 💰 Support My Work
 
-### 💰 Support My Work
+<div align="center">
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pampavenom)
 
 </div>
 
 ---
+
+<details>
+<summary><b>⚙️ Profile Automation — how everything stays live</b></summary>
+
+This profile is powered by three GitHub Actions workflows that keep every widget up to date automatically:
+
+| Workflow | What it does | Runs |
+|---|---|---|
+| [`visitor-counter.yml`](.github/workflows/visitor-counter.yml) | Pulls real GitHub traffic data and updates the cumulative **Profile Views** badge (the one marked `VISITOR_COUNT_BADGE`) | Every 6 hours + manual |
+| [`profile-3d.yml`](.github/workflows/profile-3d.yml) | Renders the **3D contribution graph** with the [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) action | Every day + manual |
+| [`snake.yml`](.github/workflows/snake.yml) | Regenerates the animated **contribution snake** and pushes it to the `output` branch | Every 6 hours + manual |
+
+**The live visitor counter** (top of this page) is rendered by [visitor-badge.laobi.icu](https://visitor-badge.laobi.icu) — it increments in real time on every single profile view, no workflow needed.
+
+**The animated graphics** (banner, terminal, skill bars, wave divider) are custom SVG files in the [`assets/`](assets/) folder of this repo — fully self-hosted, so they never break and no third party is involved.
+
+> 💡 The 3D graph image appears after the `Generate 3D Contribution Graph` workflow has run once — trigger it manually from the **Actions** tab, or wait for the daily schedule.
+
+</details>
+
+<br>
 
 <div align="center">
 <sub>⚡ Built with production-ready code, because I already own the hosting.</sub>
