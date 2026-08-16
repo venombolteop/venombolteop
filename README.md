@@ -14,8 +14,7 @@
 <img src="https://img.shields.io/github/followers/Venombolteop?color=00ADD8&label=Followers&logo=github" alt="Followers" />
 <img src="https://img.shields.io/github/stars/venombolteop?color=F7DF1E&label=Stars&logo=github" alt="Stars" />
 
-<!-- Cumulative profile views — auto-updated by the GitHub Actions visitor counter workflow -->
-![Profile Views](https://img.shields.io/badge/Profile%20Views-178329291-00ADD8?style=flat&logo=github) <!-- VISITOR_COUNT_BADGE -->
+
 
 <img src="https://img.shields.io/github/last-commit/venombolteop/venombolteop?color=7f9cf5&label=Last%20Updated&logo=githubactions" alt="Last Updated" />
 
