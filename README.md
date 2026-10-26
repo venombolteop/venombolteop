@@ -171,7 +171,7 @@
 
 <img src="https://streak-stats.demolab.com/?user=Venombolteop&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Venombolteop&theme=tokyo-night&hide_border=false" alt="Activity Graph" width="100%"/>
+<a href="https://github.com/venombolteop?tab=overview&from=2023-09-24&to=2026-10-26"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venombolteop&theme=github_dark" alt="GitHub Activity Graph" width="100%"/></a>
 
 </div>
 
@@ -264,7 +264,7 @@ This profile uses GitHub Actions to refresh generated visualisations and reposit
 |---|---|---|
 | [`visitor-counter.yml`](.github/workflows/visitor-counter.yml) | Pulls this repository's GitHub traffic data and updates the cumulative repository-view counter | Every 6 hours + manual |
 | [`profile-3d.yml`](.github/workflows/profile-3d.yml) | Renders the **3D contribution graph** with the [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) action | Every day + manual |
-| [`metrics.yml`](.github/workflows/metrics.yml) | Generates the **rich metrics card** (private + public contributions, languages, achievements, lines of code) with [lowlighter/metrics](https://github.com/lowlighter/metrics) — aggregates only, **never shows repo names** | Every day + manual |
+| [`metrics.yml`](.github/workflows/metrics.yml) | Generates the **rich metrics card** (private + public contributions, languages, achievements, lines of code) with [lowlighter/metrics](https://github.com/lowlighter/metrics) — aggregates only, **never shows repo names** (the upstream achievements plugin is disabled until its retired Projects API query is fixed) | Every day + manual |
 | [`snake.yml`](.github/workflows/snake.yml) | Regenerates the animated **contribution snake** and pushes it to the `output` branch | Every 6 hours + manual |
 
 **The profile-view badge** is provided by [visitor-badge.laobi.icu](https://visitor-badge.laobi.icu). Like other external counters, its result can be affected by caching and image requests.
