@@ -3,7 +3,7 @@
 #
 # This runs every 6 hours (and on manual trigger), fetches real GitHub
 # traffic data for this repo, adds it to a running total stored in
-# .github/view_count.txt, and updates the counter badge in README.md.
+# .github/view_count.txt, and updates the repository traffic counter in README.md.
 
 name: Update Visitor Counter
 
@@ -11,6 +11,11 @@ on:
   schedule:
     - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch: {}
+
+# Serialize profile updates so scheduled jobs do not race while pushing to main.
+concurrency:
+  group: venom-profile-generated-assets
+  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -22,7 +27,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Fetch traffic data and update counter
+      - name: Fetch repository traffic data and update counter
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPO: ${{ github.repository }}
@@ -35,5 +40,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .github/view_count.txt README.md
           git diff --cached --quiet || git commit -m "chore: update visitor counter [skip ci]"
-          git pull --rebase origin main || true
+          git pull --rebase origin main
           git push
