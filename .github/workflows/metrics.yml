@@ -1,7 +1,8 @@
 # Save as: .github/workflows/metrics.yml
 # Generates assets/metrics.svg — a rich profile card that INCLUDES private
 # contributions but NEVER exposes repo names or details (aggregates only:
-# contribution count, languages, achievements, lines of code).
+# contribution count, languages, and lines of code). The upstream achievements
+# plugin currently errors because it queries the retired Projects (classic) API.
 #
 # REQUIRED for private data: a Personal Access Token with the "repo" scope,
 # stored as the GitHub secret METRICS_TOKEN
@@ -41,9 +42,8 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_indepth: yes
           plugin_languages_sections: most-used
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_threshold: C
+          # Disabled: upstream achievements plugin currently fails against the retired Projects (classic) GraphQL field.
+          plugin_achievements: no
           plugin_lines: yes
           plugin_lines_history_limit: 1000
 
