@@ -11,6 +11,7 @@
 
 <!-- ⚡ Live counters — these update in real time, on every single profile view -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=venombolteop.profile&left_color=161B22&right_color=2F81F7&left_text=Profile%20Views" alt="Live Visitor Counter" />
+![Repository Views](https://img.shields.io/badge/Repository%20Views-0-2F81F7?style=flat&logo=github&labelColor=161B22) <!-- VISITOR_COUNT_BADGE -->
 <img src="https://img.shields.io/github/followers/Venombolteop?color=8B949E&label=Followers&logo=github&labelColor=161B22" alt="Followers" />
 <img src="https://img.shields.io/github/stars/venombolteop?color=2F81F7&label=Stars&logo=github&labelColor=161B22" alt="Stars" />
 
