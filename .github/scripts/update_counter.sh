@@ -72,7 +72,7 @@ with open(state_path, "w", encoding="utf-8") as f:
 with open(last_seen_path, "w", encoding="utf-8") as f:
     f.write(latest + "\n")
 
-badge = f"![Repository Views](https://img.shields.io/badge/Repository%20Views-{total}-2F81F7?style=flat&logo=github&labelColor=161B22) <!-- VISITOR_COUNT_BADGE -->"
+badge = f'<img src="https://img.shields.io/badge/Repository%20Views-{total}-2F81F7?style=flat&logo=github&labelColor=161B22" alt="Repository Views" /> <!-- VISITOR_COUNT_BADGE -->'
 with open(readme_path, encoding="utf-8") as f:
     lines = f.readlines()
 found = False
