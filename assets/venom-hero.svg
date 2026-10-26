@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">VENOM — Backend engineering and infrastructure</title>
+  <desc id="desc">A dark technical profile banner with an electric cyan and violet signal motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070B14"/>
+      <stop offset=".55" stop-color="#10182A"/>
+      <stop offset="1" stop-color="#080D18"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67E8F9"/>
+      <stop offset=".52" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".78" cy=".4" r=".55">
+      <stop offset="0" stop-color="#4F46E5" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#4F46E5" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94A3B8" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#glow)"/>
+  <path d="M0 286H1200" stroke="#64748B" stroke-opacity=".22"/>
+  <path d="M0 300H360L390 270H560L585 245H740" fill="none" stroke="url(#signal)" stroke-width="1.5" stroke-opacity=".55"/>
+  <path d="M760 0V360M792 0V360M824 0V360" stroke="#94A3B8" stroke-opacity=".08"/>
+  <g fill="none" stroke="url(#signal)" stroke-width="1.5" opacity=".8">
+    <path d="M810 80h60l18 18h80"/>
+    <path d="M850 112h40l20-20h92l16 16h72"/>
+    <path d="M820 145h110l20 20h65"/>
+    <path d="M880 190h40l20-20h100"/>
+    <path d="M820 225h78l16-16h76l20 20h82"/>
+  </g>
+  <g fill="#67E8F9">
+    <circle cx="870" cy="80" r="3"/><circle cx="1008" cy="92" r="3"/>
+    <circle cx="930" cy="145" r="3"/><circle cx="1040" cy="170" r="3"/>
+    <circle cx="914" cy="209" r="3"/><circle cx="1090" cy="229" r="3"/>
+  </g>
+  <g transform="translate(78 76)">
+    <rect width="54" height="3" rx="1.5" fill="url(#signal)"/>
+    <text x="0" y="54" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="5">ENGINEERING / PROFILE</text>
+    <text x="-3" y="145" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="800" letter-spacing="-4">VENOM<tspan fill="#67E8F9">.</tspan></text>
+    <text x="2" y="190" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing=".5">Backend systems. APIs. Infrastructure.</text>
+    <text x="2" y="230" fill="#94A3B8" font-family="monospace" font-size="14" letter-spacing="2">DESIGN  /  BUILD  /  DEPLOY  /  ITERATE</text>
+  </g>
+  <g transform="translate(1055 55)" opacity=".85">
+    <circle cx="0" cy="0" r="5" fill="#67E8F9" filter="url(#softGlow)"/>
+    <circle cx="0" cy="0" r="20" fill="none" stroke="#67E8F9" stroke-opacity=".35"/>
+    <circle cx="0" cy="0" r="35" fill="none" stroke="#818CF8" stroke-opacity=".2"/>
+  </g>
+  <text x="1120" y="330" text-anchor="end" fill="#64748B" font-family="monospace" font-size="11" letter-spacing="2">EST. IN CURIOSITY</text>
+</svg>
