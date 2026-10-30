@@ -12,13 +12,11 @@
 
 </div>
 
-<img src="assets/section-rule.svg" width="100%" alt=""/>
+---
 
-<table>
-<tr>
-<td width="58%" valign="middle">
+## 01 / HUNTER DOSSIER
 
-### 01 / HUNTER DOSSIER
+<img src="assets/monarch-dossier.svg" width="100%" alt="Shadow Monarch hunter identity card"/>
 
 # VENOM
 
@@ -26,64 +24,41 @@
 
 I build backend systems, APIs and infrastructure designed to stay online. My work revolves around reliable services, proxy routing, server optimization and practical automation.
 
-- **Current quest:** API development & proxy route optimization
-- **Guild:** Backend systems, server engineering & open source
+- **Current quest:** API development and proxy route optimization
+- **Guild:** Backend systems, server engineering and open source
 - **Learning:** Deployment patterns and server-side architecture
 - **Ask me about:** VPS, REST APIs, proxy networks and automation
 - **Passive skill:** Production-ready code — hosting is already handled.
 
-</td>
-<td width="42%" align="center" valign="middle">
+---
 
-<img src="assets/monarch-dossier.svg" width="100%" alt="Shadow Monarch hunter identity card"/>
-
-</td>
-</tr>
-</table>
-
-<img src="assets/section-rule.svg" width="100%" alt=""/>
+## 02 / ACTIVE QUEST — FEATURED PROJECT
 
 <div align="center">
 
-### 02 / ACTIVE QUEST
-
 <a href="https://github.com/venombolteop/VenomMusic"><img src="https://github-readme-stats.vercel.app/api/pin/?username=venombolteop&repo=VenomMusic&theme=transparent&hide_border=true&title_color=B7A8FF&icon_color=9B8CFF&text_color=C7C9DA&bg_color=090B16" alt="VenomMusic repository card"/></a>
 
-**[VENOM MUSIC](https://github.com/venombolteop/VenomMusic)**  
+**[VENOM MUSIC](https://github.com/venombolteop/VenomMusic)**
+
 Telegram music bot · Playback controls · Interactive panels · Chat-first UX
 
 [Explore all repositories](https://github.com/venombolteop?tab=repositories)
 
 </div>
 
-<img src="assets/section-rule.svg" width="100%" alt=""/>
+---
 
-<table>
-<tr><td colspan="2">
-
-### 03 / SYSTEM TERMINAL — LIVE DEPLOYMENT LOG
-
-</td></tr>
-<tr><td colspan="2">
+## 03 / SYSTEM TERMINAL — DEPLOYMENT LOG
 
 <img src="assets/terminal.svg" width="100%" alt="Animated terminal"/>
 
-</td></tr>
-<tr>
-<td width="50%" valign="top">
+### Guild network
 
-**GUILD TRANSMISSION**
+- [Telegram channel — @TomatoFist](https://t.me/TomatoFist)
+- [Telegram group — @Venom_chatting](https://t.me/Venom_chatting)
+- [Direct contact — @K_4ip](https://t.me/K_4ip)
 
-[![Channel](https://img.shields.io/badge/CHANNEL-@TomatoFist-7657D6?style=for-the-badge&logo=telegram&logoColor=white&labelColor=090B16)](https://t.me/TomatoFist)
-
-[![Group](https://img.shields.io/badge/GROUP-@Venom__chatting-7657D6?style=for-the-badge&logo=telegram&logoColor=white&labelColor=090B16)](https://t.me/Venom_chatting)
-
-[![Owner](https://img.shields.io/badge/CONTACT-@K__4ip-7657D6?style=for-the-badge&logo=telegram&logoColor=white&labelColor=090B16)](https://t.me/K_4ip)
-
-</td>
-<td width="50%" valign="top">
-
-**FIND THE HUNTER**
+### Find the hunter
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/venomowners)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Venom_owners)
@@ -91,21 +66,14 @@ Telegram music bot · Playback controls · Interactive panels · Chat-first UX
 [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/K_4ip)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush20912@gmail.com)
 
-</td></tr>
-</table>
+---
 
-<img src="assets/section-rule.svg" width="100%" alt=""/>
-
-<div align="center">
-
-### 04 / THE SHADOW ARSENAL
+## 04 / THE SHADOW ARSENAL
 
 <img src="assets/arsenal-board.svg" width="100%" alt="Custom technology arsenal dashboard"/>
 
-</div>
-
 <details>
-<summary><b>▸ FULL TECHNOLOGY INVENTORY — all tools & platforms</b></summary>
+<summary><b>▸ FULL TECHNOLOGY INVENTORY — all tools and platforms</b></summary>
 
 **LANGUAGES & FRAMEWORKS**
 
@@ -145,13 +113,13 @@ Telegram music bot · Playback controls · Interactive panels · Chat-first UX
 
 </details>
 
-<img src="assets/section-rule.svg" width="100%" alt=""/>
+---
 
-<div align="center">
-
-### 05 / HUNTER STATUS — LIVE GITHUB INTELLIGENCE
+## 05 / HUNTER STATUS — GITHUB ANALYTICS
 
 <img src="assets/status-board.svg" width="100%" alt="Hunter status dashboard"/>
+
+<div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=Venombolteop&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=B7A8FF&icon_color=9B8CFF&text_color=C7C9DA&bg_color=090B16" height="180" alt="GitHub statistics"/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Venombolteop&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=B7A8FF&text_color=C7C9DA&bg_color=090B16" height="180" alt="Top languages"/>
@@ -164,84 +132,81 @@ Telegram music bot · Playback controls · Interactive panels · Chat-first UX
 
 <img src="https://streak-stats.demolab.com/?user=Venombolteop&theme=transparent&hide_border=true&ring=9B8CFF&fire=B7A8FF&currStreakLabel=B7A8FF&sideLabels=C7C9DA&dates=888BA5" width="100%" alt="GitHub streak"/>
 
-<a href="https://github.com/venombolteop?tab=overview&from=2023-09-24&to=2026-10-26"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Venombolteop&theme=github_dark" width="100%" alt="GitHub activity overview"/></a>
-
 </div>
 
-<img src="assets/section-rule.svg" width="100%" alt=""/>
+---
 
-<div align="center">
-
-### 06 / AWAKENING METRICS
+## 06 / AWAKENING METRICS
 
 <img src="assets/metrics.svg" width="100%" alt="GitHub Metrics — generated by GitHub Actions"/>
 
-### 07 / MANA CORE — 3D CONTRIBUTION REALM
+---
+
+## 07 / MANA CORE — 3D CONTRIBUTION REALM
 
 <img src="https://raw.githubusercontent.com/venombolteop/venombolteop/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph"/>
 
-### 08 / SHADOW ARMY — CONTRIBUTION SNAKE
+---
+
+## 08 / SHADOW ARMY — CONTRIBUTION SNAKE
 
 <!--START_SECTION:snake-->
 <img src="https://raw.githubusercontent.com/venombolteop/venombolteop/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated dark-mode contribution snake"/>
 <!--END_SECTION:snake-->
 
-</div>
+---
 
-<img src="assets/section-rule.svg" width="100%" alt=""/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 09 / GUILD TAVERN
+## 09 / GUILD TAVERN — RANDOM DEVELOPER JOKE
 
 <div align="center">
+
 <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Random developer joke"/>
+
 </div>
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 10 / MONARCH'S DOCTRINE
+## 10 / MONARCH'S DOCTRINE — RANDOM DEVELOPER QUOTE
 
 <div align="center">
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random developer quote"/>
+
 </div>
 
-</td>
-</tr>
-<tr><td colspan="2" align="center">
+---
 
-### 11 / SIDE QUEST — MINI GAME
+## 11 / SIDE QUEST — MINI GAME
+
+<div align="center">
 
 **Try to catch me!** Open the interactive 2048-style game.
 
 [![Play 2048](https://img.shields.io/badge/▶_PLAY_GAME-2048_CLONE-7657D6?style=for-the-badge&labelColor=090B16)](https://play2048.co/)
 
-</td></tr>
-<tr><td colspan="2" align="center">
+</div>
 
-### 12 / SUPPORT THE GUILD
+---
+
+## 12 / SUPPORT THE GUILD
+
+<div align="center">
 
 [![PayPal](https://img.shields.io/badge/SUPPORT_ON_PAYPAL-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/pampavenom)
 
-</td></tr>
-</table>
+</div>
 
-<img src="assets/section-rule.svg" width="100%" alt=""/>
+---
 
 <details>
 <summary><b>⚙️ SYSTEM ARCHITECTURE — PROFILE AUTOMATION & SETUP</b></summary>
 
 This profile uses GitHub Actions to refresh generated visualisations and repository traffic data:
 
-| Workflow | Function | Schedule |
-|---|---|---|
-| [visitor-counter.yml](.github/workflows/visitor-counter.yml) | Updates cumulative repository-view counter using GitHub traffic data | Every 6 hours + manual |
-| [profile-3d.yml](.github/workflows/profile-3d.yml) | Generates the 3D contribution graph using [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) | Daily + manual |
-| [metrics.yml](.github/workflows/metrics.yml) | Generates contribution, language and achievement metrics via [lowlighter/metrics](https://github.com/lowlighter/metrics); aggregate-only, no repository names | Daily + manual |
-| [snake.yml](.github/workflows/snake.yml) | Generates the contribution snake and pushes it to the `output` branch | Every 6 hours + manual |
+- **[visitor-counter.yml](.github/workflows/visitor-counter.yml)** — updates the cumulative repository-view counter using GitHub traffic data; every 6 hours and manual.
+- **[profile-3d.yml](.github/workflows/profile-3d.yml)** — generates the 3D contribution graph; daily and manual.
+- **[metrics.yml](.github/workflows/metrics.yml)** — generates contribution, language and code metrics through [lowlighter/metrics](https://github.com/lowlighter/metrics); daily and manual.
+- **[snake.yml](.github/workflows/snake.yml)** — generates the contribution snake and publishes it to the `output` branch; every 6 hours and on manual trigger.
 
 The profile-view badge is provided by [visitor-badge.laobi.icu](https://visitor-badge.laobi.icu). External counters may be affected by caching and image requests.
 
@@ -252,7 +217,7 @@ The hero, dossier, arsenal board, status board, terminal and dividers are self-h
 <details>
 <summary><b>🔐 Include private contributions in the metrics card (optional)</b></summary>
 
-The default `GITHUB_TOKEN` can only see public data. To include private contribution totals (without exposing repository names or details):
+The default `GITHUB_TOKEN` can only see public data. To include private contribution totals without exposing repository names or details:
 
 1. Go to GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic).
 2. Generate a token with the `repo` scope and copy it.
