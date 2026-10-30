@@ -1,54 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
-  <title id="title">VENOM — Build quietly. Ship boldly.</title>
-  <desc id="desc">A premium black and acid-lime banner with a custom angular venom mark and editorial typography.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#090A08"/>
-      <stop offset=".58" stop-color="#151811"/>
-      <stop offset="1" stop-color="#080908"/>
-    </linearGradient>
-    <linearGradient id="lime" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#E5FF9A"/>
-      <stop offset=".45" stop-color="#C6F36B"/>
-      <stop offset="1" stop-color="#8BC34A"/>
-    </linearGradient>
-    <radialGradient id="haze" cx=".8" cy=".45" r=".65">
-      <stop offset="0" stop-color="#A3E635" stop-opacity=".15"/>
-      <stop offset="1" stop-color="#A3E635" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grainGrid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#D9F99D" stroke-opacity=".045" stroke-width="1"/>
-    </pattern>
-    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
-      <feGaussianBlur stdDeviation="9" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-  </defs>
-  <rect width="1200" height="390" rx="20" fill="url(#bg)"/>
-  <rect width="1200" height="390" rx="20" fill="url(#grainGrid)"/>
-  <rect width="1200" height="390" rx="20" fill="url(#haze)"/>
-  <path d="M0 320H1200" stroke="#D9F99D" stroke-opacity=".12"/>
-  <path d="M50 34H310" stroke="url(#lime)" stroke-width="3"/>
-  <text x="52" y="63" fill="#A3A99B" font-family="monospace" font-size="12" letter-spacing="4">INDEPENDENT DEVELOPER  /  PROFILE</text>
-  <text x="46" y="196" fill="#F4F5F0" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="900" letter-spacing="-7">VENOM<tspan fill="url(#lime)">.</tspan></text>
-  <text x="54" y="244" fill="#D7DCCF" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing=".4">Build quietly. Ship boldly.</text>
-  <text x="54" y="283" fill="#9DA394" font-family="monospace" font-size="13" letter-spacing="2">BACKEND  /  APIs  /  AUTOMATION  /  SYSTEMS</text>
-  <g transform="translate(905 190)">
-    <circle r="126" fill="none" stroke="#C6F36B" stroke-opacity=".10"/>
-    <circle r="100" fill="none" stroke="#C6F36B" stroke-opacity=".18" stroke-dasharray="2 10"/>
-    <circle r="74" fill="none" stroke="#C6F36B" stroke-opacity=".24"/>
-    <path d="M-55 -56L0 -86L55 -56L55 14L0 65L-55 14Z" fill="#C6F36B" fill-opacity=".07" stroke="url(#lime)" stroke-width="2"/>
-    <path d="M-34 -34L0 -54L34 -34L34 4L0 34L-34 4Z" fill="none" stroke="url(#lime)" stroke-width="2.5"/>
-    <path d="M-24 -9L-6 -22L-6 -1L13 -14L13 13L-3 25L-3 5L-24 19Z" fill="url(#lime)" filter="url(#glow)"/>
-    <circle cx="0" cy="-86" r="4" fill="#E5FF9A"/>
-    <circle cx="55" cy="-56" r="4" fill="#E5FF9A"/>
-    <circle cx="55" cy="14" r="4" fill="#E5FF9A"/>
-    <circle cx="0" cy="65" r="4" fill="#E5FF9A"/>
-    <circle cx="-55" cy="14" r="4" fill="#E5FF9A"/>
-    <circle cx="-55" cy="-56" r="4" fill="#E5FF9A"/>
-  </g>
-  <g fill="#C6F36B">
-    <circle cx="1100" cy="58" r="2"/><circle cx="1120" cy="58" r="2"/><circle cx="1140" cy="58" r="2"/>
-  </g>
-  <text x="1148" y="350" text-anchor="end" fill="#777E6E" font-family="monospace" font-size="11" letter-spacing="2">DESIGN  /  BUILD  /  DEPLOY</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+<title id="t">VENOM — Shadow Monarch alternate banner</title><desc id="d">Midnight profile banner with violet mana rings and shadow particles.</desc>
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#05050B"/><stop offset=".55" stop-color="#101020"/><stop offset="1" stop-color="#080711"/></linearGradient><linearGradient id="v"><stop stop-color="#6D28D9"/><stop offset=".5" stop-color="#A78BFA"/><stop offset="1" stop-color="#67E8F9"/></linearGradient><radialGradient id="a"><stop stop-color="#7C3AED" stop-opacity=".32"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient><pattern id="g" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#A78BFA" stroke-opacity=".08"/></pattern></defs>
+<rect width="1200" height="300" rx="20" fill="url(#b)"/><rect width="1200" height="300" rx="20" fill="url(#g)"/><ellipse cx="930" cy="150" rx="350" ry="210" fill="url(#a)"/><path d="M0 250H1200" stroke="#A78BFA" stroke-opacity=".25"/><path d="M52 48H310" stroke="url(#v)" stroke-width="3"/>
+<text x="54" y="78" fill="#A78BFA" font-family="monospace" font-size="12" letter-spacing="4">HUNTER PROFILE / CLASS: DEVELOPER</text><text x="48" y="174" fill="#F5F3FF" font-family="Arial, sans-serif" font-size="92" font-weight="900" letter-spacing="-5">VENOM<tspan fill="#A78BFA">.</tspan></text><text x="56" y="215" fill="#DDD6FE" font-family="Arial, sans-serif" font-size="22">Backend Engineer / API Architect</text><text x="56" y="250" fill="#8B86A7" font-family="monospace" font-size="12" letter-spacing="2">BUILD SYSTEMS • ROUTE DATA • SHIP RELIABLY</text>
+<g transform="translate(950 148)" fill="none" stroke="url(#v)"><circle r="118" stroke-opacity=".22"/><circle r="94" stroke-opacity=".45" stroke-dasharray="3 9"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/></circle><circle r="68" stroke-opacity=".5"/><path d="M0 -135V-112M0 112V135M-135 0H-112M112 0H135" stroke-width="2"/></g>
+<g fill="#C4B5FD"><circle cx="820" cy="64" r="2"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle><circle cx="1080" cy="74" r="2.5"><animate attributeName="opacity" values=".2;1;.2" dur="3s" repeatCount="indefinite"/></circle><circle cx="1125" cy="225" r="1.8"><animate attributeName="opacity" values=".2;1;.2" dur="2s" repeatCount="indefinite"/></circle></g><text x="1145" y="275" text-anchor="end" fill="#625B7F" font-family="monospace" font-size="10" letter-spacing="2">ARISE / BUILD / DEPLOY</text></svg>
