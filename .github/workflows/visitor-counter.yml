@@ -19,6 +19,7 @@ concurrency:
 
 permissions:
   contents: write
+  administration: read
 
 jobs:
   update-counter:
