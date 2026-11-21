@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="270" viewBox="0 0 1400 270" role="img" aria-labelledby="title desc">
+<title id="title">VENOM Hunter System player status</title><desc id="desc">A midnight black, silver and electric blue player dashboard for the Venom developer profile.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101d2b"/><stop offset="1" stop-color="#070d15"/></linearGradient><linearGradient id="blue"><stop stop-color="#176b98"/><stop offset="1" stop-color="#69d2ff"/></linearGradient><radialGradient id="glow"><stop stop-color="#48bfff" stop-opacity=".24"/><stop offset="1" stop-color="#48bfff" stop-opacity="0"/></radialGradient></defs>
+<rect x="8" y="8" width="1384" height="254" rx="18" fill="url(#bg)" stroke="#315b78" stroke-width="2"/><rect x="8" y="8" width="1384" height="254" rx="18" fill="url(#glow)"/>
+<path d="M34 52H1366" stroke="#28465d"/><path d="M34 52H360" stroke="url(#blue)" stroke-width="3"/>
+<text x="38" y="37" fill="#58c7ff" font-family="monospace" font-size="13" letter-spacing="4">SYSTEM ONLINE / PLAYER PROFILE / BUILD 01</text>
+<text x="38" y="145" fill="#edf5fb" font-family="Arial,sans-serif" font-size="76" font-weight="900" letter-spacing="2">VENOM</text>
+<text x="42" y="181" fill="#9fb8ca" font-family="monospace" font-size="17" letter-spacing="3">BACKEND ENGINEER / API ARCHITECT</text>
+<rect x="42" y="205" width="188" height="30" rx="4" fill="#102a3b" stroke="#39789b"/><text x="136" y="225" fill="#dceeff" font-family="monospace" font-size="12" text-anchor="middle" letter-spacing="2">E-RANK / LEVEL 01</text>
+<g transform="translate(1030 136)"><circle r="93" fill="none" stroke="#315b78" stroke-width="2"/><circle r="76" fill="none" stroke="#58c7ff" stroke-opacity=".65" stroke-dasharray="3 9"/><circle r="57" fill="#102b3d" stroke="#69d2ff" stroke-width="2"/><path d="M-26 25L0 -36L26 25L0 12Z" fill="#dceeff"/><text y="7" text-anchor="middle" fill="#0b1b29" font-family="Arial" font-size="27" font-weight="900">V</text></g>
+<g font-family="monospace"><text x="1175" y="100" fill="#7f98ad" font-size="11" letter-spacing="2">CLASS</text><text x="1175" y="124" fill="#dceeff" font-size="16">DEVELOPER</text><text x="1175" y="164" fill="#7f98ad" font-size="11" letter-spacing="2">SPECIALIZATION</text><text x="1175" y="188" fill="#dceeff" font-size="14">BACKEND / APIs</text></g>
+<path d="M34 248H1366" stroke="#20374b"/><text x="1360" y="239" text-anchor="end" fill="#617d93" font-family="monospace" font-size="10" letter-spacing="2">ARISE / BUILD / DEPLOY</text>
+</svg>
