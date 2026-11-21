@@ -19,10 +19,10 @@ TOTAL="$(cat "$COUNT_FILE")"
 [[ "$TOTAL" =~ ^[0-9]+$ ]] || { echo "Invalid counter value in $COUNT_FILE" >&2; exit 1; }
 
 TRAFFIC="$(curl --fail --silent --show-error \
-  -H "Authorization: Bearer \${GH_TOKEN}" \
+  -H "Authorization: Bearer ${GH_TOKEN}" \
   -H "Accept: application/vnd.github+json" \
   -H "X-GitHub-Api-Version: 2022-11-28" \
-  "https://api.github.com/repos/\${REPO}/traffic/views")"
+  "https://api.github.com/repos/${REPO}/traffic/views")"
 
 TRAFFIC_JSON="$TRAFFIC" python3 - "$COUNT_FILE" "$STATE_FILE" "$LAST_SEEN_FILE" "$README" "$TOTAL" <<'PY'
 import json
