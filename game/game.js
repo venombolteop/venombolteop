@@ -109,7 +109,7 @@ function renderDungeon(){
 }
 function renderInventory(){
   $("inventoryGrid").innerHTML=
-    '<article class="item-card"><div class="item-icon">✚</div><h3>HEALTH POTION</h3><p>Restores 45 HP during a dungeon encounter.</p><span class="item-count">QUANTITY: '+state.potions+'</span></article>'+
+    '<article class="item-card"><div class="item-icon">✚</div><h3>HEALTH POTION</h3><p>Restores 45 HP during a dungeon encounter.</p><span class="item-count">QUANTITY: '+state.potions+'</span><p><button class="btn btn-ghost" data-buy-potion>BUY POTION · 30 G</button></p></article>'+
     '<article class="item-card"><div class="item-icon">✦</div><h3>MANA CORE</h3><p>Mana regenerates by 5 after each successful turn.</p><span class="item-count">'+state.mana+' / '+state.maxMana+' MP</span></article>'+
     '<article class="item-card"><div class="item-icon">◈</div><h3>GOLD</h3><p>Dungeon reward currency. More encounters, more gold.</p><span class="item-count">BALANCE: '+state.gold+' G</span></article>';
 }
@@ -138,8 +138,8 @@ function enemyTurn(){
   state.mana=Math.min(state.maxMana,state.mana+5);
   logBattle("NULL WARDEN STRIKES FOR "+damage+" DAMAGE. +5 MP REGENERATED.");
   if(state.hp<=0){
-    d.active=false;state.hp=Math.max(1,Math.ceil(state.maxHp*.35));
-    logBattle("YOU WERE DEFEATED. RECOVERY PROTOCOL RESTORED 35% HP.");
+    d.active=false;d.bossHp=d.bossMaxHp;state.hp=Math.max(1,Math.ceil(state.maxHp*.35));
+    logBattle("YOU WERE DEFEATED. RECOVERY PROTOCOL RESTORED 35% HP. BOSS RESET.");
     toast("DUNGEON FAILED · REGROUP AND TRY AGAIN");
   }
 }
@@ -156,15 +156,21 @@ function playerAttack(skill){
   if(skill){
     if(state.mana<15)return;
     state.mana-=15;damage=state.stats.int*4+Math.floor(Math.random()*13)+8;
-    logBattle("MANA STRIKE DEALS "+damage+" DAMAGE.");
+    const critical=Math.random()<Math.min(.35,state.stats.agi*.01);if(critical)damage*=2;
+    logBattle("MANA STRIKE "+(critical?"CRITICAL ":"")+"DEALS "+damage+" DAMAGE.");
   }else{
     damage=state.stats.str*2+Math.floor(Math.random()*10)+5;
-    logBattle("BASIC ATTACK DEALS "+damage+" DAMAGE.");
+    const critical=Math.random()<Math.min(.35,state.stats.agi*.01);if(critical)damage*=2;
+    logBattle("BASIC ATTACK "+(critical?"CRITICAL ":"")+"DEALS "+damage+" DAMAGE.");
   }
   d.bossHp=Math.max(0,d.bossHp-damage);d.turn+=1;
   if(d.bossHp<=0){winDungeon();}
   else enemyTurn();
   save(true);render();
+}
+function buyPotion(){
+  if(state.gold<30){toast("NOT ENOUGH GOLD · NEED 30 G");return;}
+  state.gold-=30;state.potions+=1;save(true);render();toast("HEALTH POTION ACQUIRED");
 }
 function usePotion(){
   if(!state.dungeon.active||state.potions<1||state.hp>=state.maxHp)return;
@@ -176,6 +182,7 @@ document.addEventListener("click",event=>{
   if(tab){const name=tab.dataset.tab;document.querySelectorAll(".tab").forEach(el=>el.classList.toggle("active",el.dataset.tab===name));document.querySelectorAll(".tab-view").forEach(el=>{const active=el.id==="tab-"+name;el.classList.toggle("active",active);el.hidden=!active;});return;}
   const quest=event.target.closest("[data-quest]");if(quest){completeQuest(quest.dataset.quest);return;}
   const stat=event.target.closest("[data-stat]");if(stat){allocate(stat.dataset.stat);return;}
+  const buy=event.target.closest("[data-buy-potion]");if(buy){buyPotion();return;}
 });
 $("startDungeonBtn").addEventListener("click",startDungeon);
 $("attackBtn").addEventListener("click",()=>playerAttack(false));
